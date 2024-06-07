@@ -1,8 +1,8 @@
-# Technical Writing
+# Documentation Writing
 
-The following is my approach to writing documentation / technical specs.
+The following is my approach to writing documentation.
 
-These principles are also demonstrated in this set of [Sample Technical Specs](sample-technical-specs/global.md) I wrote.
+These principles are also demonstrated in this set of [Sample Documentation](sample-documentation/global.md) I wrote.
 
 ## Principles
 
@@ -56,4 +56,4 @@ With the above principles in mind, I typically write my specs in this order:
 
 Of course, this entire process is incredibly recursive. I inevitably traverse up and down this chronology as I continue to discover the abstractions and standardizations I want to make. But following this process keeps such chaos to a minimum.
 
-You can see my [Sample Technical Specs](sample-technical-specs/global.md) here.
+You can see my [Sample Documentation](sample-documentation/global.md) here.
