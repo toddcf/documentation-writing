@@ -51,6 +51,7 @@ With the above principles in mind, I typically write my specs in this order:
         1. In descending order (from parent to child).
         2. Then chronological order.
         3. Then alphabetical order.
+       
        Keeping things in a consistent order develops familiarity, which results in speed.
 
 Of course, this entire process is incredibly recursive. I inevitably traverse up and down this chronology as I continue to discover the abstractions and standardizations I want to make. But following this process keeps such chaos to a minimum.
