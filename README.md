@@ -42,7 +42,7 @@ The following is generally based on writing specs in Confluence, but the same pr
 With the above principles in mind, I typically write my specs in this order:
 
 1. Determine the document (file) nesting.
-  1. Plan out the nesting architecture in a Word document using bullet points. These can be cut, pasted, and indented much easier than actual Confluence documents.
-  2. The nesting will determine how each document is written, and how they are hyperlinked to each other.
-  3. For a website, your nesting could be organized by pathname, or page levels in the data layer. (The two are often closely related, anyway.)
+    1. Plan out the nesting architecture in a Word document using bullet points. These can be cut, pasted, and indented much easier than actual Confluence documents.
+    2. The nesting will determine how each document is written, and how they are hyperlinked to each other.
+    3. For a website, your nesting could be organized by pathname, or page levels in the data layer. (The two are often closely related, anyway.)
 2. Once nesting order is determined, I typically write the parent documents first and work my way down to the child documents.
