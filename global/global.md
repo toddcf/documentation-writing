@@ -56,3 +56,24 @@
 - Plus:
   - eVar12 (Page Load Time): digitalData.page.loadTime
 
+## Application Implementation
+
+### Page Loads
+
+- digitalData:
+  - page:
+    - level1: (string)
+    - level2: (string)
+    - level3: (string)
+    - level4: (string)
+    - level5: (string)
+    - loadTime: (number: milliseconds)
+    - pathname: (string)
+  - site:
+    - country: (string: 'us', 'gb', 'au', 'nz', 'hk', etc.)
+    - env: (string: 'dev', 'stage,' 'prod', etc.)
+    - language: (string: 'en', 'es', etc.)
+    - region: (string: 'nam', 'uk', 'au', 'intl', etc.)
+  - user:
+    - auth: (Boolean: **true** if logged in)
+    - id: (string: unique identifier) *(if known)*
