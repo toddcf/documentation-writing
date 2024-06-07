@@ -46,3 +46,13 @@ With the above principles in mind, I typically write my specs in this order:
     2. The nesting will determine how each document is written, and how they are hyperlinked to each other.
     3. For a website, your nesting could be organized by pathname, or page levels in the data layer. (The two are often closely related, anyway.)
 2. Once nesting order is determined, I typically write the parent documents first and work my way down to the child documents.
+3. When editing/reading multiple documents, I open each in a new tab. This makes it easier to jump from document to document without wating for each to load, or losing my place in the previous one.
+    1. I also organize my tabs the same way every time:
+        1. In descending order (from parent to child).
+        2. Then chronological order.
+        3. Then alphabetical order.
+       Keeping things in a consistent order develops familiarity, which results in speed.
+
+Of course, this entire process is incredibly recursive. I inevitably traverse up and down this chronology as I continue to discover the abstractions and standardizations I want to make. But following this process keeps such chaos to a minimum.
+
+You can see my Sample Technical Specs here.
