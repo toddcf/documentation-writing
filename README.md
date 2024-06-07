@@ -6,12 +6,12 @@ These principles are also demonstrated in this set of [Sample Documentation](sam
 
 ## Principles
 
-The following is generally based on writing specs in Confluence, but the same principles are valuable in general.
+The following is generally based on writing documentation in Confluence, but the same principles are valuable in general.
 
 - Keep everything D.R.Y. (Don't Repeat Yourself). Each piece of information should be stated only once.
   - This typically means abstracting all common information up to a parent document, then hyperlinking each child document up to the parent.
     - Only hyperlink documents one level up. (If there are no specifics to add in a middle layer, simply pass the reader up to the next layer.)
-  - This is important for keeping the specs easy to maintain. If a change must be made later, it will only have to be made in one place.
+  - This is important for keeping the documentation easy to maintain. If a change must be made later, it will only have to be made in one place.
 - Context first.
   - Place the following at the top of each document so readers can tell at a glance what is being described:
     - Title
@@ -21,16 +21,16 @@ The following is generally based on writing specs in Confluence, but the same pr
   - Readers are less likely to skim or misinterpret.
   - Bullet points and sentence fragments are good.
 - Write for clarity.
-  - If a reader asks a question about the spec, something wasn't clear. Respond to the person, but then fix the spec.
+  - If a reader asks a question about the documentation, something wasn't clear. Respond to the person, but then fix the documentation.
 - Use chronological, then alphabetical order.
-  - If the specs describe something that occurs in a specific order (such as the steps of a purchase funnel), start each document title with a number so that the reader sees them in the order the user will navigate them.
+  - If the documentation describes something that occurs in a specific order (such as the steps of a purchase funnel), start each document title with a number so that the reader sees them in the order the user will navigate them.
   - Otherwise, fall back on alphabetical order.
 - When describing an object (JavaScript, etc.), use bullet points for each property.
   - For visual clarity, indent all bullet points that represent a nested property.
   - Use the minimum amount of nesting required.
 - Be wary of copying and pasting (especially in Confluence).
   - Confluence tends to obliterate formatting when pasting. (Sometimes it even looks correct until you save.)
-  - When you copy/paste/edit, it is very easy to forget to change one detail. Then readers will either come to you with questions, or work off inaccurate specs.
+  - When you copy/paste/edit, it is very easy to forget to change one detail. Then readers will either come to you with questions, or work off inaccurate documentation.
   - Manually typing all the information into each document catalyzes continuous polishing. Each refinement can then be applied across all documents.
 - Standardize everything.
   - If you discover a new use case that could potentially be handled by a previous use case, refactor both into a standardized architecture. (Even better, abstract the standardized descriptions up to the highest-possible parent document and hyperlink all child documents up to the parent.)
@@ -39,7 +39,7 @@ The following is generally based on writing specs in Confluence, but the same pr
 
 ## Process
 
-With the above principles in mind, I typically write my specs in this order:
+With the above principles in mind, I typically write my documentation in this order:
 
 1. Determine the document (file) nesting.
     1. Plan out the nesting architecture in a Word document using bullet points. These can be cut, pasted, and indented much easier than actual Confluence documents.
