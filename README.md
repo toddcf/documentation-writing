@@ -2,7 +2,7 @@
 
 The following is my approach to writing documentation.
 
-These principles are also demonstrated in this set of [Sample Documentation](sample-documentation/global.md) I wrote.
+These principles are also demonstrated in this set of [Sample Documentation](sample-documentation/global.md).
 
 ## Principles
 
