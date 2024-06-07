@@ -60,6 +60,8 @@
 
 ### Page Loads
 
+Populate the data layer:
+
 - digitalData:
   - page:
     - level1: (string)
