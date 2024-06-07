@@ -36,3 +36,13 @@ The following is generally based on writing specs in Confluence, but the same pr
   - If you discover a new use case that could potentially be handled by a previous use case, refactor both into a standardized architecture. (Even better, abstract the standardized descriptions up to the highest-possible parent document and hyperlink all child documents up to the parent.)
   - Use consistent formatting. (Headings, spacing, capitalization, etc.) Aside from a clean and professional appearance that indicates credibility, this uniformity is easier on the reader as they switch from document to document.
   - Use consistent naming conventions. (For example, don't call it "Analytics" on some documents, and "Tracking" on others. If something is the same thing, call it the same thing.) The reader should not have to stop and confirm whether two words are a synonym for the same thing, or two different things.
+
+## Process
+
+With the above principles in mind, I typically write my specs in this order:
+
+1. Determine the document (file) nesting.
+  a. Plan out the nesting architecture in a Word document using bullet points. These can be cut, pasted, and indented much easier than actual Confluence documents.
+  b. The nesting will determine how each document is written, and how they are hyperlinked to each other.
+  c. For a website, your nesting could be organized by pathname, or page levels in the data layer. (The two are often closely related, anyway.)
+2. Once nesting order is determined, I typically write the parent documents first and work my way down to the child documents.
