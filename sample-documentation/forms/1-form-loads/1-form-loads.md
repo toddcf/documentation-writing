@@ -2,7 +2,7 @@
 
 ## Pages
 
-*Any page on the site that contains a form.*
+*All pages containing forms.*
 
 ## Analytics
 

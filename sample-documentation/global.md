@@ -1,5 +1,7 @@
 # Global
 
+*This sample documentation describes a fictional website for a solar power company.*
+
 ## Pages
 
 - / (homepage)
