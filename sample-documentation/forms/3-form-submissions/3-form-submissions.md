@@ -11,7 +11,7 @@
   - events:
     - 'form-submit-success' *(if **'global-form-event'** is detected, and if **digitalData.form.status === 'submit-success'**)*
 
-*If form submission fails, it is tracked via [Errors](../../errors/errors).*
+*If form submission fails, it is tracked via [Errors](../../errors).*
 
 ## Application Implementation
 
